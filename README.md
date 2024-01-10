@@ -5,7 +5,7 @@ This is a landing page for Disneys new streaming platform Disneyplus. I enjoyed 
 The purpose of the project was to practise building a real landing page that is fully responsive for tablets and mobile devices.    
 
 ## Setup
-You can see the landing page from here [Disney+](https://oybekjp.github.io/disney-plus/).
+You can see the landing page from here [Disney+](https://zinelabidiin.github.io/disneyplusclone/).
 
 ## Features
 List of features 
