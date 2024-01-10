@@ -1,4 +1,4 @@
-# Responsive Disneyplus landing page - responsive weather web application
+# Responsive Disneyplus landing page - responsive web application
 This is a landing page for Disneys new streaming platform Disneyplus. I enjoyed creating it because Marvel is my favorite studio and as you know Disney/Mickey owns it now.
 
 ## General info
