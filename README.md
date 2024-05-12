@@ -1,5 +1,5 @@
 # Responsive Disneyplus landing page - responsive web application
-This is a landing page for Disneys new streaming platform Disneyplus. I enjoyed creating it because Marvel is my favorite studio and as you know Disney/Mickey owns it now.
+This is a landing page for Disneys new streaming platform Disneyplus. I enjoyed creating it because Marvel is my favorite studio, after BRProd.
 
 ## General info
 The purpose of the project was to practise building a real landing page that is fully responsive for tablets and mobile devices.    
